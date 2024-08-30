@@ -1,0 +1,22 @@
+.teste{
+    font-size: 30px; 
+    text-align: center;
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fundo{
+    background-color: black;
+}
+
+.logo{
+    text-align: center;
+}
+
+.beneficios{
+    display: inline-block;
+}
+.texto{
+    margin: 10px;
+    width:  50%;
+    color: rgb(19, 21, 23);
+}
